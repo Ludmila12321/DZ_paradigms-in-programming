@@ -19,6 +19,6 @@ def sort_list_declarative(numbers):
 
 # Проверка
 
-not_sorted_list = [5, 8, 1, 6, 4, 77, 0, 1, 101]
+not_sorted_list = [101, 8, 1, 6, 4, 77, 0, 1, 3]
 print(sort_list_imperative(not_sorted_list))
 print(sort_list_declarative(not_sorted_list))
